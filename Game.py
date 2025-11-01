@@ -115,7 +115,7 @@ st.markdown("""
 # JUDUL
 # ======================
 st.title("Mission: Cross Possible")
-st.write("“Misi menaklukkan kurs silang — cepat hitung, jangan ngarang! 🏆💹”")
+st.markdown("##“Misi menaklukkan kurs silang — cepat hitung, jangan ngarang! 🏆💹”")
 
 # ======================
 # LOGIKA DASAR
@@ -217,5 +217,6 @@ if check or reveal:
 
 st.markdown("<hr>", unsafe_allow_html=True)
 #st.caption("🎨 Desain by DJPPR Booth Edition | Tema: Maroon × Navy | Font: Poppins")
+
 
 
